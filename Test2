@@ -19,4 +19,8 @@ After the merge I'll further modify the file.
 I've fetched from Ubuntu-Changes and I wonder If I can upload it there or rather to the master
 
 But what will happen if I make this change elsewhere????
+<<<<<<< HEAD
 And if I change this on Ubuntu?
+=======
+And add another line online?
+>>>>>>> ab21a159851231a556d7745a7555082d068ddea0
