@@ -1,19 +1,19 @@
-,BS,QR,HR,FR,
-ExaCC X9 Key Parameters,Base system,Quarter Rack,Half Rack,Full Rack,Storage Expansion
-Number of Database Servers,2,2,4,8,
-Maximum Number of OCPUs,48,124,248,496,
-Total Memory (GB),656,"2,780","5,560","11,120",
-Number of Storage Servers,3,3,6,12,1
-Total Flash Capacity (TB),38.4,76.8,153.6,307.2,
-Total Usable Disk Capacity (TB),74,192,384,769,64.1
-Max DB Size - Local backup1 (TB),29.9,59.9,119.8,239.5,
-Max DB Size - No Local Backup1 (TB),59,153,307,615,
-Max SQL Flash Bandwidth2 (GB/s),25,135,270,540,
-Max SQL Flash Read IOPS3,"562,500","5,600,000","11,200,000","22,400,000",
-Max SQL Flash Write IOPS4," 518,000    "," 1,842,000    "," 3,684,000    "," 7,368,000    ",
-Max SQL Disk Bandwidth2 (GB/s),2.7,5.4,10.8,21.5,
-Max SQL Disk IOPS3," 3,900    "," 7,800    "," 15,600    "," 31,000    ",
-Max Data Load Rate5 (TB/hr),3.8,7.5,15,30,
-Additional Storage cell possibility,9,9,6,0,
-Max # of VM Clusters per system,4,8,8,8,
-Min # of OCPUs per VM Cluster,4,4,8,16,
+,BS,QR,HR,FR
+ExaCC X9 Key Parameters,Base system,Quarter Rack,Half Rack,Full Rack
+Number of Database Servers,2,2,4,8
+Maximum Number of OCPUs,48,124,248,496
+Total Memory (GB),656,"2,780","5,560","11,120"
+Number of Storage Servers,3,3,6,12
+Total Flash Capacity (TB),38.4,76.8,153.6,307.2
+Total Usable Disk Capacity (TB),74,192,384,769
+Max DB Size - Local backup1 (TB),29.9,59.9,119.8,239.5
+Max DB Size - No Local Backup1 (TB),59,153,307,615
+Max SQL Flash Bandwidth2 (GB/s),25,135,270,540
+Max SQL Flash Read IOPS3,"562,500","5,600,000","11,200,000","22,400,000"
+Max SQL Flash Write IOPS4,"518,000","1,842,000","3,684,000","7,368,000"
+Max SQL Disk Bandwidth2 (GB/s),2.7,5.4,10.8,21.5
+Max SQL Disk IOPS3,"3,900","7,800","15,600","31,000"
+Max Data Load Rate5 (TB/hr),3.8,7.5,15,30
+Additional Storage cell possibility,9,9,6,0
+Max # of VM Clusters per system,4,8,8,8
+Min # of OCPUs per VM Cluster,4,4,8,16
