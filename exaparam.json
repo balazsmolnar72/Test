@@ -1,4 +1,4 @@
-ExaConfigs={
+{
 	"Base system":{
 		"Number of Database Servers":"2",
 		"Maximum Number of OCPUs":"48",
