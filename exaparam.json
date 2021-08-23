@@ -1,0 +1,34 @@
+ExaConfigs={
+	"Base system":{
+		"Number of Database Servers":"2",
+		"Maximum Number of OCPUs":"48",
+		"Total Memory (GB)":"656",
+		"Number of Storage Servers":"3",
+		"Total Flash Capacity (TB)":"38.4",
+		"Total Usable Disk Capacity (TB)":"74"
+	},
+	"Quarter Rack":{
+		"Number of Database Servers":"2",
+		"Maximum Number of OCPUs":"124",
+		"Total Memory (GB)":"2780",
+		"Number of Storage Servers":"3",
+		"Total Flash Capacity (TB)":"76.8",
+		"Total Usable Disk Capacity (TB)":"192"
+	},
+	"Half Rack":{
+		"Number of Database Servers":"4",
+		"Maximum Number of OCPUs":"248",
+		"Total Memory (GB)":"5560",
+		"Number of Storage Servers":"6",
+		"Total Flash Capacity (TB)":"153.6",
+		"Total Usable Disk Capacity (TB)":"384"
+	},
+		"Full Rack":{
+		"Number of Database Servers":"8",
+		"Maximum Number of OCPUs":"496",
+		"Total Memory (GB)":"11120",
+		"Number of Storage Servers":"12",
+		"Total Flash Capacity (TB)":"307.2",
+		"Total Usable Disk Capacity (TB)":"769"
+	}
+}
