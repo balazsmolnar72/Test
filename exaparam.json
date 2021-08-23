@@ -1,4 +1,4 @@
-{
+{[
 	"Base system":{
 		"Number of Database Servers":"2",
 		"Maximum Number of OCPUs":"48",
@@ -31,4 +31,4 @@
 		"Total Flash Capacity (TB)":"307.2",
 		"Total Usable Disk Capacity (TB)":"769"
 	}
-}
+]}
