@@ -1,4 +1,4 @@
-{[
+{
 	"Base system":{
 		"Number of Database Servers":"2",
 		"Maximum Number of OCPUs":"48",
@@ -23,7 +23,7 @@
 		"Total Flash Capacity (TB)":"153.6",
 		"Total Usable Disk Capacity (TB)":"384"
 	},
-		"Full Rack":{
+	"Full Rack":{
 		"Number of Database Servers":"8",
 		"Maximum Number of OCPUs":"496",
 		"Total Memory (GB)":"11120",
@@ -31,4 +31,4 @@
 		"Total Flash Capacity (TB)":"307.2",
 		"Total Usable Disk Capacity (TB)":"769"
 	}
-]}
+}
